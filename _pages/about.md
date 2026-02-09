@@ -25,7 +25,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <!-- 个人简介正文（可替换为你的介绍） -->
-Professor at Donghua University and Ph.D. supervisor. Member of the Faculty Working Committee of the Chinese Association of Automation, Executive Council Member of the Shanghai Association of Automation, and Council Member of the Shanghai Society for System Simulation. Serves as an Editorial Board Member of the international journal Systems & Control Letters, among others. Research interests include control of distributed parameter systems, modeling, optimization, and control of complex industrial processes, and control based on Deep Operator Networks (DeepONet). Proposed a multi-agent swarm control methodology based on continuous modeling, with applications to unmanned systems.
+I am a professor at Donghua University and Ph.D. supervisor. Member of the Faculty Working Committee of the Chinese Association of Automation, Executive Council Member of the Shanghai Association of Automation, and Council Member of the Shanghai Society for System Simulation. Serves as an Editorial Board Member of the international journal Systems & Control Letters, among others. 
+
+My research interests include control and estimation of partial differential equations, control of time-delay systems, learning-based control for PDE systems, and their applications in multi-agent systems and industrial production processes.
 
 
 <!-- 锚点：用于顶部导航跳转到首页内容 -->
