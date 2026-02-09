@@ -7,7 +7,7 @@
 
 # 站点设置
 title                    : "Jie Qi" # 浏览器/SEO 标题（不是导航栏标签）
-description              : "I am a professor" # 侧栏作者卡片简介 + SEO 描述
+#description              : "I am a professor" # 侧栏作者卡片简介 + SEO 描述
 repository               : "HaoYuanTian/HaoYuanTian.github.io" # GitHub "owner/repo"，用于链接和元数据
 # google_scholar_stats_use_cdn : true # 通过 CDN 加载 Scholar 统计资源
 
