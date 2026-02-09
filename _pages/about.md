@@ -25,17 +25,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <!-- 个人简介正文（可替换为你的介绍） -->
-I am a Professor with the School of Information and Intelligent Science, Donghua University, China. I received the B.Eng. degree in 2000 and the Ph.D. degree in 2005 from Northeastern University (China). I was a Visiting Scholar at the Cymer Center for Control Systems and Dynamics, University of California, San Diego, from March 2013 to February 2014 and from June to September 2015; a Visiting Scholar with the Department of Chemical and Materials Engineering, University of Alberta, from January 2019 to January 2020; and an Academic Visitor at the Mathematical Institute, University of Oxford, from September 2023 to September 2024. I currently serve as an Associate Editor for Systems & Control Letters. I am also a member of the Teaching Committee of the Chinese Association of Automation, an Executive Council Member of the Shanghai Association of Automation, and a Council Member of the Shanghai Association of Systems Simulation. I have received the Baosteel Excellent Teacher Award and the Shanghai Young Talents Award.
+Professor at Donghua University and Ph.D. supervisor. Member of the Faculty Working Committee of the Chinese Association of Automation, Executive Council Member of the Shanghai Association of Automation, and Council Member of the Shanghai Society for System Simulation. Serves as an Editorial Board Member of the international journal Systems & Control Letters, among others. Research interests include control of distributed parameter systems, modeling, optimization, and control of complex industrial processes, and control based on Deep Operator Networks (DeepONet). Proposed a multi-agent swarm control methodology based on continuous modeling, with applications to unmanned systems.
 
-<!-- 研究兴趣与引用统计展示 -->
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-My research interests include control and estimation of partial differential equations, control of time-delay systems, learning-based control for PDE systems, and their applications in multi-agent systems and industrial production processes.
-
-
-<!-- 动态/新闻
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <!-- 锚点：用于顶部导航跳转到首页内容 -->
 <span class='anchor' id='educations'></span>
