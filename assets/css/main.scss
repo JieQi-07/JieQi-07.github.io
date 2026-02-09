@@ -112,3 +112,8 @@ h1:before, .anchor:before {
 .page__content > p:first-of-type {
   text-align: justify;
 }
+
+/* ---------- Main text: Times New Roman ---------- */
+.page__content {
+  font-family: "Times New Roman", Times, serif;
+}
