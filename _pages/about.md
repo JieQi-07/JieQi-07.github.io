@@ -50,10 +50,10 @@ My research interests include control and estimation of partial differential equ
   Dept. of Automation, Northeastern University, China
 
 
-<span class='anchor' id='professional experience'></span>
+<span class='anchor' id='professional experiences'></span>
 
 <!-- 职业经历 -->
-# 💼 Professional experience
+# 💼 Professional Experience
 - **Sep. 2016 to present**, Professor<br>
   Department of Automation, School of Information and Intelligent Science, Donghua University, Shanghai, China
 - **September 2023 to September 2024**, Academic Visitor<br>
