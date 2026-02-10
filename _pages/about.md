@@ -25,9 +25,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <!-- 个人简介正文（可替换为你的介绍） -->
-She is a professor at Donghua University and a Ph.D. supervisor. She is a member of the Faculty Working Committee of the Chinese Association of Automation, an Executive Council Member of the Shanghai Association of Automation, and a Council Member of the Shanghai Society for System Simulation. She serves as an Editorial Board Member of international journals including Systems & Control Letters.
-
-Her research interests include control and estimation of partial differential equations, control of time-delay systems, control of time-delay systems, learning-based control for PDE systems, and their applications in multi-agent systems and industrial production processes.
+Jie Qi is a professor with Donghua University, China. She currently serves as an Associate Editor for Systems & Control Letters. She is also a member of the Teaching Committee of the Chinese Association of Automation, an Executive Council Member of the Shanghai Association of Automation, and a Council Member of Shanghai Association of Systems Simulation. Her research interests include control and estimation of partial differential equations, control of time-delay systems, learning-based control for PDE systems, and their applications in multi-agent systems and industrial production processes.
 
 
 <!-- 锚点：用于顶部导航跳转到首页内容 -->
@@ -138,8 +136,7 @@ Her research interests include control and estimation of partial differential eq
 <span class='anchor' id='research-works'></span>
 
 <!-- 科研项目 -->
-# 🔬 Research Works
-**Main Projects:**
+# 🔬 Research Work
 - Project 1: Control of Several Classes of Distributed Parameter Systems with Spatially-Varying Delays. National Natural Science Foundation of China (NSFC), 62173084, 2022.1-2025.12, Principal Investigator.
 - Project 2: Reinforcement Learning based Control of the Melt Spinning Forming Process for Polyamide Fiber. Shanghai Natural Science Foundation, 23ZR1401800, 2023.4-2026.3, Principal Investigator.
 - Project 3: PDE-Based Modeling and Formation Control for Large Scale Collective Systems with Time-Delay and Time-Varying. National Natural Science Foundation of China (NSFC), 61773112, 2018.1-2021.12, Principal Investigator.
@@ -151,7 +148,7 @@ Her research interests include control and estimation of partial differential eq
 # 📚 Teaching
 - Automation Control Theory, Undergraduate, Spring 05, 06, 08-11, 12-18, 20-23, 25-
 - Mathematical modeling and Mathematical experiments, Undergraduate, Fall 05, 06, 08-18, 20
-- Modern Control Theory, Graduated, Spring 09, 11, 12, 15, 25
+- Modern Control Theory, Graduated, Spring 09, 11, 12, 15
 - Special topics in theory and technology of complex system modeling, Graduated, Fall 15-18, 20-23, 25-
 
 
